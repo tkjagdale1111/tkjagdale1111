@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently working on **Machine Learnring,Deep Learning, NLP, MLOps Tools (MLFLOW, DVC).**
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/tkjagdale11?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/tkjagdale1111?tab=repositories)
 
 - 👨‍💻 Completed **Data Science certificates.** 
 
