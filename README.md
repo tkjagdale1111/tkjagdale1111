@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 
-<h1 align="center">Hi<img width="45" src="waving_hand.gif">, I'm Tukaram Jagdale </h1>
+<h1 align="center">Hi<img width="45" src="waving_hand.gif">,I'm Tukaram Jagdale </h1>
 <p align="center">
 </p>
 <h3 align="center"> A Data Scientist  From India. 
