@@ -27,7 +27,7 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist intern** at **cognifyz technology Pvt. Ltd.**
+- 🔭 I’m currently working as **Data Scientist intern** at **Maxgen india Pvt. Ltd.**
 
 - 🌱 I’m currently working on **Machine Learnring,Deep Learning, NLP, MLOps Tools (MLFLOW, DVC).**
 
